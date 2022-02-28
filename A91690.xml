@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the Army, concerning the King, Lords, Commons, and their solemn contract and engagement to be tendered to the people of England, upon the principles of common rights and freedom, and to stand firme, and remain unalterable for ever. With their remonstrance and proposals to the kingdome; shewing, what law and government they would have established and confirmed; which lawes and statutes, are ordered to be printed and published, to be read in all churches and chappels throughout the kingdome, in the presence of each respective congregation, and a copy thereof to be provided and kept by the ministers, church-wardens, or other officers of the said respective parishes.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91690</idno>
+            <idno type="STC">Wing R1145</idno>
+            <idno type="STC">Thomason E476_16</idno>
+            <idno type="STC">ESTC R23431</idno>
+            <idno type="EEBO-CITATION">99871994</idno>
+            <idno type="PROQUEST">99871994</idno>
+            <idno type="VID">162501</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162501)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E476[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the Army, concerning the King, Lords, Commons, and their solemn contract and engagement to be tendered to the people of England, upon the principles of common rights and freedom, and to stand firme, and remain unalterable for ever. With their remonstrance and proposals to the kingdome; shewing, what law and government they would have established and confirmed; which lawes and statutes, are ordered to be printed and published, to be read in all churches and chappels throughout the kingdome, in the presence of each respective congregation, and a copy thereof to be provided and kept by the ministers, church-wardens, or other officers of the said respective parishes.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nehemiah VVilson, and are to be sold neer the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162501:1" rendition="simple:additions"/>
+            <p>THE RESOLUTION OF THE ARMY, <hi>CONCERNING</hi> The KING, LORDS, and COMMONS, AND Their Solemn Contract and Engagement to be tendered to the People of <hi>England,</hi> upon the principles of Com<g ref="char:EOLhyphen"/>mon Rights and Freedom, and to ſtand firme, and remain unalterable for ever.</p>
+            <p>WITH Their Remonſtrance and Propoſals to the <hi>Kingdome;</hi> ſhewing, what Law and Government they would have eſtabliſhed and confirmed; which Lawes and Statutes, are</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>ORdered to be printed and publiſhed, to be read in all Churches and Chappels throughout the Kingdome, in the preſence of each reſpective Congregation, and a Copy thereof to be provided and kept by the Miniſters, Church-wardens, or other Officers of the ſaid reſpective Pariſhes.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Nehemiah VVilſon,</hi> and are to be ſold neer the Royall Exchange in Cornhill, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162501:2"/>
+            <pb n="1" facs="tcp:162501:2"/>
+            <head>THE RESOLUTION OF THE ARMY Concerning The King, Lords, and Commons, and their Remonſtrance and Propoſals to the Kingdome, ſhewing what Law and Government they deſire to have eſtabliſhed.</head>
+            <p>HIs Excellency the Lord Gen. <hi>Fairfax,</hi> and the Ge<g ref="char:EOLhyphen"/>nerall councel of Officers, upon mature delibera<g ref="char:EOLhyphen"/>tion, touching the tranſaction of affairs, in order to the ſettlement of the peace of the Kingdom, have decla<g ref="char:EOLhyphen"/>red, That (for the lo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and honour they bear to juſtice and righteouſneſſe, and for the reall love they bear to the ſilver
+<pb n="2" facs="tcp:162501:3"/>cords of amity and concord) they will indeavour the com<g ref="char:EOLhyphen"/>poſing of all differences, and executing of impartiall juſtice both upon King, Lords, and Commons, and all others (even from the higheſt to the loweſt) who have acted contrary to the known Laws of the Realm, and the truſt repoſed in them by the People. And the Army doe further remonſtrate to the <hi>Kingdom,</hi> 1 That no Magiſtrate have power to make a<g ref="char:EOLhyphen"/>ny compulſive Law, or execute any matters of puniſhment, touching matters of Conſcience. 2 That all Statutes, Laws, and Acts of Parl. be mane and run only in the name of the Commons of <hi>England</hi> aſſembled in Parliament. 3 That no perſons whatſoever that are Law-makers, be Law executi<g ref="char:EOLhyphen"/>oners, but that a cleer diſtinction be preſerved and kept in<g ref="char:EOLhyphen"/>violable betwixt theſe two principles and pillars of the <hi>Com<g ref="char:EOLhyphen"/>mon-wealth</hi> for ever. 4 That all Officers of the <hi>Commonwelth</hi> be made to enjoy their places, but for a time prefixed, and at the expiration thereof to give an accompt of their Stew<g ref="char:EOLhyphen"/>ardſhip. 5 That no man be kept in priſon above a month, but in that ſpace to be brought to tryall by a lawfull Jury of his equals, or elſe to be diſcharged of courſe. 6 That no man be impreſſed or forced to ſerve in future wars. 7 That our Laws be few and plain, free from all ambiguous mea<g ref="char:EOLhyphen"/>nings, and all in the Engliſh tongue, and to be printed in a Volume, and one to be provided, to be kept in every church throughout the Kingdom and to be read over at ſeveral ſea<g ref="char:EOLhyphen"/>ſons in open Congregations. 8 That all perſons ſtand alike liable to the Lawes of the Land, in all caſes both criminall and civill. 9 That no more trudging up to <hi>Westmin.</hi> from all parts of the Land, for the tryall of ſuits of Law bee had, but that (as of old) all ſuits both criminall and civill be en<g ref="char:EOLhyphen"/>ded in the ſeverall Hundreds. 10 That a ſolemne Contract upon theſe and the like Principles be drawne betwixt the
+<pb facs="tcp:162501:3"/>People and their Repreſentatives for ever. 11 That till the accompliſhment of this work, (in behalf of the Army and People) that no Forces be disbanded, except perſons ill affe<g ref="char:EOLhyphen"/>cted, and diſſentors from this Expedition. For theſe things we do declare, and with our Swords in our hands, as we are Soldiers, we challenge them as the price and purchaſe of our Bloud, to live and dye for them againſt all oppoſers whatſoever.</p>
+            <floatingText xml:lang="eng" type="remonstrance">
+               <body>
+                  <head>The Cities Remonstrance.</head>
+                  <p>THe Lord Major, Aldermen, and Common councel having ſeriouſly debated the deſires of his Excel<g ref="char:EOLhyphen"/>lency the Lord Gen. <hi>Fairfax</hi> (in order to the acom<g ref="char:EOLhyphen"/>modation of the Army) upon mature deliberation thereon, made choiſe of a Committee, to repreſent and declare the ſenſe and propoſals of the Citizens of <hi>London,</hi> to his Excel<g ref="char:EOLhyphen"/>lency, a copy whereof followeth, <hi>viz.</hi> 1 That the City for their ſecurity of 40000 <hi>l.</hi> deſired, may have all the arrears upon any aſſeſments made for this army within <hi>London,</hi> and the Liberties thereof, which did grow due to be paid before the 25. of <hi>March</hi> laſt, freed from all ingagements. 2 And of thoſe arreares all that money paid into the Treaſury ſinde the 30. of <hi>Novemb.</hi> laſt, to be accounted part of the 40000. peſired. And that with the money received out uf Weavers hall, and the 5500. l. lately received of the Treaſurers, the reſt ſhall be paid on <hi>Munday</hi> next. 3 That a Common-councel have undertaken to diſcharge the Generals ingage<g ref="char:EOLhyphen"/>ments concerning the money taken out of Weavers Hall, to pay the ſame thither out of the ſaid arrears. 4 That the Common councel hath promiſed to get in the reſt of their arrears, and alſo to make the new aſſeſments for the ſixe moneths ending <hi>Michaelmas</hi> laſt, and ſo collect the ſame withall expedition. 5 And upon thls ingagement they doe humbly pray, that the army may this night be withdrawn out of the City and Liberties thereof, according to the in<g ref="char:EOLhyphen"/>tiamtion of col. <hi>VVhaley,</hi> and col. <hi>Thomlinſon.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Guild-Hal, London,</hi> 
+                        <date>9 <hi>Decem.</hi> 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="response">
+               <body>
+                  <pb n="4" facs="tcp:162501:4"/>
+                  <head>His Excellencies Anſwer to the ſaid Declaration and Propoſals.</head>
+                  <opener>
+                     <salute>My Lord and Gentlemen,</salute>
+                  </opener>
+                  <p>
+                     <hi>I Have peruſed your paper, and I find the point of ſecurity hath much troubled you and us, whereby we are yet without our money, and neceſſities daily grow upon us. To prevent which and to make things cleer (which I do not conceive your papers do) I deſire that you will within</hi> 14. <hi>daye, or ſooner if you pleaſe cauſe all the money charged upon the City of London for the Army until the</hi> 25. <hi>of March next, and in arrear. This being done, I ſhal both repay the Money from VVeavers Hall, and withdraw all the Forces from the City, the continuance of which in the City in the mean time, wil (I conceive) facilitate your work in collecting your ſaidmonies.</hi>
+                  </p>
+                  <closer>
+                     <signed>Subſcribed, T. FAIRFAX.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="declaration">
+               <body>
+                  <head>The Lord Generals Declaratson to the City.</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>HAving ſent ſo often to you for the arreares due from the City, and deſired ſums of money to be advanced by you, far ſhort of the ſums due from you, yet I have been delayed and denied, to the hazard of the army, and the pre<g ref="char:EOLhyphen"/>judice of others in the Suburbs upon whom they are quar<g ref="char:EOLhyphen"/>tered; wherefore I thought fit to ſend to ſeize the ſaid Tre<g ref="char:EOLhyphen"/>ſuries, and to ſend ſome forces into the City to quarter there untill I may be ſatisfied the Arrears due unto the Ar<g ref="char:EOLhyphen"/>my: and if th s ſeem ſtrange unto you, 'tis no leſſe then that our forces have been ordered to do by the Parl. in the ſeve<g ref="char:EOLhyphen"/>rall Counties of the Kingdome where aſſeſments have not bin paid, and there to continue untill they have bin paid: and here give me leave to tell you, the Counties of the kingdom have born free quarter, and that in a great meaſure, for want of your paying your Arrears equally with them; wherfore,
+<pb n="5" facs="tcp:162501:4"/>theſe wayes if they diſlike you, yet they are meerly long of your ſelves, and are of as great regret to me and to the Ar<g ref="char:EOLhyphen"/>my as your ſelves, we wiſhing not only the good and pro<g ref="char:EOLhyphen"/>ſperity of your City, but that things may be ſo carried to<g ref="char:EOLhyphen"/>wards you, as may give no cauſe of jealouſie: I thought fit to let you know, that if you ſhall take a ſpeedy courſe to ſupply us with 40000. <hi>l.</hi> forthwith, according to my for<g ref="char:EOLhyphen"/>mer Deſire and provide ſpeedily what alſo is in Arrear, I ſhall not only cauſe the monies in the Treaſuries to bee not made uſe of, but leave them to be diſpoſed of as right they might, and alſo cauſe my Forces to be withdrawn from be<g ref="char:EOLhyphen"/>ing in any ſort troubleſome or chargable to the City; And let the world judge whether this be not juſt and equal dea<g ref="char:EOLhyphen"/>ling with you. I reſt, My Lord, <hi>Your affectionate ſervant,</hi>
+                  </p>
+                  <closer>
+                     <signed>T. FAIRFAX.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="declaration">
+               <body>
+                  <head>A Declaration from his Excellency the Lord Gen. <hi>Fairfax</hi> concerning the Excize, and the Citizens of London.</head>
+                  <p>VVHereas upon the 8. of this inſtant moneth, a party of Horſe and Foot came to the Excize Office in Broadſtreet, which perhaps will occaſion ſome to think the Army came thither with a purpoſe to interrupt any more levying of the Excive; Theſe are to declare, and aſſure them, that the ſaid Forces came thither by a miſtake, and that there was not any intentions to give interruption unto the due levying of the Excize, or to ſeize upon any money in Caſh; and that you may proceed as formerly, ac<g ref="char:EOLhyphen"/>cording to thoſe Ordinances, and Orders of Parliament, which you have received concerning the ſame.</p>
+                  <closer>
+                     <signed>
+                        <hi>Subſcribed,</hi> T. FAIRFAX.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Severall Propoſals have been preſented to the Houſe of Commons, by Col. <hi>VVhaley,</hi> in the name of the Officers and Souldiers of the Army, in order to an impeachment againſt <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <floatingText xml:lang="eng" type="remonstrance">
+               <body>
+                  <pb n="6" facs="tcp:162501:5"/>
+                  <head>A new Remonſtrance from the Souldiery.</head>
+                  <opener>
+                     <salute>May it pleaſe your Excellency,</salute>
+                  </opener>
+                  <p>FOraſmuch, as for the love and honor we bear to juſtice and righteouſneſſe, and for the real love we bear to uni<g ref="char:EOLhyphen"/>ty upon that account; in order thereunto, we deſire you would give the higheſt, juſteſt, reaſonable, impartial, &amp; righ<g ref="char:EOLhyphen"/>teous aſſurance and ſatisfaction that may be, to all people, and juſt men in the army and Kingdome, that you are reall to all the Nation, and to Us in particular, that ſo the Lord alone may be acknowledged in judgment, and impartiall righteouſneſſe in the earth. And then our bloud ſhall not be precious in our ſight, but we will (if God and Nature calls for it) ſpill it as water in the ſtreets, to accompliſh thoſe ends for the Nation, and our ſelves, as individual members thereof, againſt all tyrants whatſoever, and manifeſt our ſelves as ſubject to your Authority and Conduct, as any men living, in this our Generation.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
